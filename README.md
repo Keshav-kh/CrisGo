@@ -213,7 +213,7 @@ Twitter: @yourhandle
 
 Demo: Live Demo
 
-<div align="center"> <strong>🚨 Navigate Safely. Every Time. 🚨</strong> Made with ❤️ at [Hackathon Name] 2025 </div> ```
+<div align="center"> <strong>🚨 Navigate Safely. Every Time. 🚨</strong> Made with ❤️ at Columbia DivHacks 2025 </div> ```
 ⚡ Quick note: replace
 
 YOUR_DEMO_URL with your demo link
