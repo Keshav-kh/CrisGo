@@ -46,7 +46,7 @@ CrisGo bridges that gap with AI-powered verification, seamless voice reporting, 
 ### 📱 AR Navigation Mode  
 - Camera-overlay navigation with hazard warnings  
 - Distance indicators for nearby dangers  
-- Voice-guided directions for safer, eyes-free travel  
+- Spoken navigation for safer, hands-free trips.
 
 ### 🛣️ Intelligent Routing  
 - Auto-avoidance of high-credibility hazards  
